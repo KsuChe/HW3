@@ -17,6 +17,7 @@ public class Main {
                 System.out.println("Установите облегченную версию приложения для Android по ссылке");
             }
 
+
             }
 
     }
